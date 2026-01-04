@@ -1,21 +1,14 @@
-# Succinct SP1 zkVM – Learning Project
+# Succinct SP1 Learning
 
-This repository contains a minimal zero-knowledge program built while learning
-the **Succinct SP1 zkVM**.
+This repository is my personal learning journey with
+**Succinct SP1**, a zero-knowledge virtual machine (zkVM).
 
-## What this demonstrates
-- Writing zk programs in Rust using SP1
-- Generating zero-knowledge proofs for program execution
-- Understanding zkVM-based proving infrastructure
+I am learning:
+- What zero-knowledge proofs are
+- How SP1 proves normal Rust programs
+- How zkVMs are used in real blockchain systems
 
-## Program
-- **Fibonacci** – computes the nth Fibonacci number and proves correct execution
+This is a learning-first repository.
+I will add examples slowly as I understand them.
 
-## Why this matters
-Succinct enables developers to generate verifiable proofs of computation
-that can be verified on Ethereum, L2s, Solana, and beyond.
-
-This repo is part of my ongoing work learning **ZK infrastructure** and
-privacy-preserving computation.
-
-Built with ❤️ while learning Succinct.
+Status: Learning in progress 🚧
