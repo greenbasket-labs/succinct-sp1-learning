@@ -1,14 +1,23 @@
-# Succinct SP1 Learning
+# Succinct SP1 zkVM – Learning Repository
 
-This repository is my personal learning journey with
-**Succinct SP1**, a zero-knowledge virtual machine (zkVM).
+This repository documents my learning journey with the Succinct SP1 zkVM.
 
-I am learning:
-- What zero-knowledge proofs are
-- How SP1 proves normal Rust programs
-- How zkVMs are used in real blockchain systems
+The goal of this project is not to ship a production system, but to
+understand zero-knowledge virtual machines (zkVMs) from an infrastructure
+and developer perspective.
 
-This is a learning-first repository.
-I will add examples slowly as I understand them.
+## Focus
+- Learn what zkVMs are and why they matter
+- Understand the SP1 model at a high level
+- Document concepts, progress, and challenges
+- Build public proof of learning in zero-knowledge infrastructure
 
-Status: Learning in progress 🚧
+## Scope
+- Conceptual learning and documentation
+- No production code yet
+- No prover nodes or heavy computation at this stage
+
+## Status
+Active learning project.
+
+This repository is intentionally simple and honest.
